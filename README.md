@@ -68,5 +68,5 @@ Additional columns include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/restaurant-leads-enrichment-serpapi.git
+git clone https://github.com/yanyanovskyi/restaurant-leads-enrichment-serpapi.git
 cd restaurant-leads-enrichment-serpapi
